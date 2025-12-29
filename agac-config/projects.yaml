@@ -1,0 +1,5 @@
+projects:
+  G2-IandF-Checker-FW:
+    repo: INTenX/G2-IandF-Checker-FW
+    default_branch: main
+    visibility: private
